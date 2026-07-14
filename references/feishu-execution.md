@@ -13,15 +13,7 @@ Use it when the user wants:
 - A daily review table.
 - A task list or daily workflow.
 
-This is still the public version. Do not include:
-
-- Bot IDs.
-- Private app credentials.
-- Internal folder IDs.
-- Private-domain conversion workflow.
-- Paid delivery SOP.
-- Coze node prompts.
-- Complete industry field library.
+Keep every Feishu artifact focused on the first runnable action: readable plan, recordable table, reviewable task list.
 
 ## Tool Boundary
 
@@ -47,7 +39,7 @@ lark-cli skills read lark-base
 lark-cli skills read lark-task
 ```
 
-Use Feishu only for public execution assets. Do not write hidden sales logic or internal prompts into shared documents.
+Use Feishu for execution assets that a small team can read, fill, and review.
 
 ## Artifact Types
 
@@ -223,7 +215,7 @@ Create tasks only for public actions:
 - Review content openings.
 - Decide tool choice.
 
-Do not create tasks for hidden conversion, sales handoff, or paid implementation.
+Do not create tasks for advanced conversion, sales handoff, or paid implementation.
 
 ## Recommended Execution Flow
 

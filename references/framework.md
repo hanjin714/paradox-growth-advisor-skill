@@ -112,4 +112,4 @@ B2B small team:
 Record company type, pain point, decision person, next meeting, and proposal version.
 ```
 
-Keep examples generic. Do not reveal complete industry templates in public output.
+Keep examples scenario-level and easy for different industries to adapt.

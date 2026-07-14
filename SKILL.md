@@ -1,6 +1,6 @@
 ---
 name: paradox-growth-advisor
-description: "悖论增长谋士 Skill：小团队 AI O2O 生意增长转化系统方法论。为十几人以内的小团队、本地门店、服务商家和轻量企业服务团队，生成公开可用的 AI O2O 增长转化方案、产品化任务路径、可迭代执行物料和辅助内容产出；其中“线索不散”是核心方法模块。Use when the task involves content-to-leads, growth, O2O conversion, local-store online-to-offline marketing, lead recording, follow-up, review, repeat-purchase triggers, A/B/C lead grading, small-team AI implementation, product thinking for AI workflows, user roles, jobs-to-be-done, MVP scope, acceptance metrics, Agent/workflow/Codex tool choice, Feishu cloud docs/Base/task execution plans, first-round diagnosis, 7-day or 30-day action plans, result feedback, next-round optimization, short-video scripts, live outlines, article sections, community homework, execution cards, review cards, or turning a 7-day public course into public-safe actions. This is an external/public skill: never reveal internal prompts, private conversion paths, Coze workflow internals, paid delivery SOPs, customer privacy, or full monetization architecture."
+description: "悖论增长谋士 Skill：小团队 AI O2O 生意增长转化系统方法论。为十几人以内的小团队、本地门店、服务商家和轻量企业服务团队，生成 AI O2O 增长转化方案、产品化任务路径、可迭代执行物料和辅助内容产出；其中“线索不散”是核心方法模块。Use when the task involves content-to-leads, growth, O2O conversion, local-store online-to-offline marketing, lead recording, follow-up, review, repeat-purchase triggers, A/B/C lead grading, small-team AI implementation, product thinking for AI workflows, user roles, jobs-to-be-done, MVP scope, acceptance metrics, Agent/workflow/Codex tool choice, Feishu cloud docs/Base/task execution plans, first-round diagnosis, 7-day or 30-day action plans, result feedback, next-round optimization, short-video scripts, live outlines, article sections, community homework, execution cards, review cards, or turning a 7-day public course into audience-ready actions."
 ---
 
 # 悖论增长谋士 Skill
@@ -25,11 +25,11 @@ Core line:
 AI 不是先替你成交，而是先帮你把内容、线索、跟进和复盘变成能被团队看见的结构。
 ```
 
-## Public Boundary
+## Scope
 
-This is the external version. Always keep the output public-safe.
+Keep outputs audience-ready and focused on first-round execution.
 
-Public version may include:
+Core capability:
 
 - Business-loop judgment.
 - First-step diagnosis.
@@ -40,17 +40,14 @@ Public version may include:
 - Basic prompts that help users start.
 - Agent / workflow / Codex choice rules.
 
-Public version must not include:
+Depth rule:
 
-- Full internal prompts or 九大行星 internal architecture.
-- Coze node details, workflow internals, or automation chains.
-- Private-domain conversion paths, group operation tactics, or sales scripts.
-- Paid delivery SOPs, customer privacy, account data, or exact monetization logic.
-- Any promise of guaranteed revenue, guaranteed conversion, or fast-money results.
+- Start with business loop, leak point, first table, and 7-day action.
+- Use generic examples that a small team can adapt.
+- Keep advanced implementation details at scenario level.
+- Frame every output as an experiment that needs records and review.
 
-When unsure, say less and move the detail into a reserved/internal note.
-
-Read `references/public-boundary.md` when the task touches what can be given away publicly.
+Read `references/scope.md` when the task needs audience-facing scope, compliance wording, or platform-safe phrasing.
 
 ## Workflow
 
@@ -113,7 +110,7 @@ Read `references/framework.md` for the full public framework.
 
 Read `references/seven-day-course-core.md` when the task asks about the 7-day public course, course review, daily knowledge points, knowledge-base summaries, homework, or how this Skill was distilled from the course.
 
-Read `references/feishu-execution.md` when the user asks to create a cloud document, Base / 多维表格, task list, 7-day or 30-day execution schedule, daily review table, lead record table, or any Feishu-delivered artifact from this Skill. This external skill may describe and execute public work artifacts, but must never include private credentials, internal folder IDs, or hidden conversion workflows.
+Read `references/feishu-execution.md` when the user asks to create a cloud document, Base / 多维表格, task list, 7-day or 30-day execution schedule, daily review table, lead record table, or any Feishu-delivered artifact from this Skill.
 
 ## Running Loop
 
@@ -142,7 +139,7 @@ Read `references/skill-running-loop.md` when the user asks how to use this Skill
 
 Read `references/use-cases.md` when the user is a beginner, gives a specific role or business type, asks “我能怎么用”, or needs concrete examples for a local store, solo new-media shop, service team, or small B2B team.
 
-Read `references/output-contracts.md` when producing a diagnosis card, 7-day plan, 30-day plan, Feishu table schema, review report, or next-round optimization. Use it to keep outputs complete, testable, and public-safe.
+Read `references/output-contracts.md` when producing a diagnosis card, 7-day plan, 30-day plan, Feishu table schema, review report, or next-round optimization. Use it to keep outputs complete, testable, and audience-ready.
 
 Read `references/auxiliary-production.md` when the user asks for supporting assets, short-video scripts, live outlines, article sections, public course notes, community homework, worksheet cards, daily content ideas, review cards, or "帮我产出物料". Auxiliary outputs must be generated from a diagnosed leak and should drive a recordable action.
 
@@ -164,7 +161,7 @@ Return:
 4. A/B/C grading.
 5. 7-day test.
 6. Tool choice.
-7. Reserved/internal note.
+7. Next review metric.
 
 ### Public Content
 
@@ -176,13 +173,13 @@ Return:
 - Real small-team scene.
 - Framework.
 - First action.
-- What not to overexplain publicly.
+- Recordable next step.
 
 ### Prompt / Worksheet
 
 Use when the user wants something the audience can copy.
 
-Return only public prompts and worksheets. Keep prompts basic and editable, not the full internal operating system.
+Return starter prompts and worksheets that help a user run the first round and record results.
 
 Read `references/templates.md` for reusable public templates.
 
@@ -193,11 +190,11 @@ Use when the user wants content or supporting materials after a diagnosis.
 Return:
 
 1. The leak this asset is solving.
-2. The public-safe asset type.
+2. The audience-ready asset type.
 3. The finished draft.
 4. The action the audience should take.
 5. What should be recorded after publishing or using it.
-6. What is deliberately not included.
+6. The next review question.
 
 ### Productized Workflow
 
@@ -231,7 +228,7 @@ Avoid:
 
 - “全自动成交.”
 - “7 天暴富.”
-- “完整私域打法公开.”
+- “完整承接打法公开.”
 - “万能 AI 增长系统.”
 - Generic corporate words such as “生态、赋能、颠覆、闭环” unless explained as concrete business actions.
 

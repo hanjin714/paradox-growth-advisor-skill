@@ -17,7 +17,7 @@ Before producing any asset, identify:
 2. Which leak it is solving.
 3. What the user should do after seeing it.
 4. What the team must record after using it.
-5. What should remain reserved.
+5. What should be recorded after use.
 
 If there is no diagnosed leak, first produce a light diagnosis.
 
@@ -55,11 +55,11 @@ The Skill may produce:
 The Skill must not produce:
 
 - Hidden sales scripts.
-- Private-domain conversion path.
+- Audience journey.
 - Payment pushing flow.
 - Full customer qualification logic.
-- Internal delivery SOP.
-- Coze workflow internals.
+- Delivery checklist.
+- workflow-builder implementation details.
 - Claims of guaranteed revenue.
 
 ## Short-Video Script Contract
@@ -85,7 +85,7 @@ Rules:
 - Do not write forced three-line rhymes.
 - Use one clear point, not a complete course.
 - Make the viewer know what to comment, ask, record, or try.
-- The ending should invite a public-safe action, such as “留言你的行业，我帮你判断第一张表该记什么”.
+- The ending should invite a audience-ready action, such as “留言你的行业，我帮你判断第一张表该记什么”.
 
 Example ending:
 
@@ -116,8 +116,8 @@ Return:
 Rules:
 
 - Keep the public class useful but incomplete.
-- Give the learner a first action, not the full internal operating system.
-- Avoid off-platform traffic wording. Use public-safe wording such as “平台允许方式领取基础模板”.
+- Give the learner a first action and a review point.
+- Avoid off-platform traffic wording. Use audience-ready wording such as “平台允许方式领取基础模板”.
 
 ## Article Section Contract
 
@@ -137,7 +137,7 @@ Return:
 Article sections should sound like a practitioner:
 
 ```text
-不是你不会用 AI。
+很多时候不是工具问题，而是业务动作还没有被记录下来。
 很多时候，是你的客户开口以后，团队没有一张共同能看的记录。
 ```
 
@@ -152,7 +152,7 @@ Return:
 你要填什么：
 填完以后怎么判断：
 明天带着什么回来：
-不要做什么：
+执行边界：
 ```
 
 Good homework examples:
@@ -240,5 +240,5 @@ When the user asks for a complete supporting material package, return:
 Add:
 
 ```text
-这套物料只解决公开第一轮，不包含内部承接、成交话术和完整自动化方案。
+这套物料聚焦第一轮：让内容、开口、记录、跟进和复盘先跑起来。
 ```

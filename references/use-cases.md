@@ -1,6 +1,6 @@
 # Use Cases
 
-Use these public-safe examples to help outsiders understand what the Skill does.
+Use these audience-ready examples to help outsiders understand what the Skill does.
 
 ## What This Skill Is
 
@@ -22,13 +22,13 @@ Use it for:
 - A light B2B team that needs to track inquiry source, owner, next meeting, and result.
 - A course or community learner who needs a 7-day or 30-day public action plan.
 
-Do not position it as:
+Position it as a first-round business operating assistant rather than:
 
 - A universal traffic system.
 - A guaranteed conversion tool.
-- A private-domain sales machine.
+- A audience sales machine.
 - A full CRM replacement on day one.
-- A hidden SOP package.
+- A one-click shortcut.
 
 ## Beginner Scenario: Solo New-Media Shop
 
@@ -119,7 +119,7 @@ Skill should answer:
 Public-safe boundary:
 
 ```text
-AI 可以帮你整理和提醒，但不要让它替你承诺结果。
+AI 可以帮你整理和提醒，承诺和最终判断仍然回到真实业务负责人。
 ```
 
 ## Good User Inputs
@@ -157,7 +157,7 @@ Respond:
 If the user says:
 
 ```text
-帮我设计完整私域转化。
+帮我设计完整承接转化。
 ```
 
 Respond:

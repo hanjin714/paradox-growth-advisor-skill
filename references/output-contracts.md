@@ -1,6 +1,6 @@
 # Output Contracts
 
-Use these contracts to keep outputs complete, testable, and public-safe.
+Use these contracts to keep outputs complete, testable, and audience-ready.
 
 ## Contract 1: Diagnosis Card
 
@@ -75,7 +75,7 @@ Public default:
 |-|-|-|
 | 日期 | Date | When the lead appeared |
 | 来源内容 | Text | Video, live, search, referral, store visit |
-| 客户原话 | Long text | Must preserve exact words |
+| 客户原话 | Long text | Keep exact words |
 | 需求判断 | Text | What the customer seems to need |
 | 当前阶段 | Single select | 刚开口 / 信息待补 / 已预约下一步 / 方案判断中 / 暂不推进 |
 | 线索等级 | Single select | A / B / C |
@@ -84,7 +84,7 @@ Public default:
 | 下次跟进时间 | Date | Concrete date |
 | 结果回填 | Long text | What happened |
 
-Do not add private fields such as payment strategy, closing script, hidden customer score, or internal delivery ladder.
+Keep the first version focused on fields the team can fill every day.
 
 ## Contract 5: Result Review
 
@@ -120,15 +120,15 @@ Return:
 4. Core logic.
 5. Example.
 6. Homework.
-7. Public boundary.
+7. Next review question.
 
-Do not include:
+Keep the page focused on:
 
-- Full transcript.
-- Private承接.
-- Group operation.
-- Exact sales conversion path.
-- Internal prompts or hidden workflow.
+- One clear judgment.
+- One concrete business scene.
+- One table, checklist, or action card.
+- One homework task.
+- One next-round review question.
 
 ## Contract 7: Tool Choice Card
 
@@ -161,7 +161,7 @@ Return this when the user asks for “辅助产出”, “一套物料”, or �
 产出 5：每日复盘卡
 产出 6：飞书表格字段
 发布/执行后要记录：
-不公开展开：
+下一轮复盘问题：
 ```
 
 Quality bar:
@@ -169,7 +169,7 @@ Quality bar:
 - Every asset must point back to the same diagnosed leak.
 - Every asset must have a recordable next action.
 - Do not create generic marketing copy.
-- Do not include private-domain conversion, closing scripts, or hidden delivery logic.
+- Keep the output close to first-round execution.
 
 ## Contract 9: Productized Workflow Card
 

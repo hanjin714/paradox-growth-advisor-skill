@@ -149,7 +149,7 @@ Day7 收成可复用 Skill
 
 ## 适合谁
 
-这个 Skill 适合：
+这个 Skill 最适合这些场景：
 
 - 本地门店老板。
 - 服务型商家。
@@ -159,12 +159,12 @@ Day7 收成可复用 Skill
 - 想把 AI 用在真实业务动作里，而不是只做演示的人。
 - 想把内容、线索、跟进、复购和工具选择串成一条线的人。
 
-不适合：
+更好的使用方式：
 
-- 想要“全自动成交”的人。
-- 想要保证收益、保证转化的人。
-- 流程完全不愿意记录，只想直接买工具的人。
-- 想获取内部提示词、私域转化路径、客户交付 SOP 或隐藏商业设计的人。
+- 先描述真实业务，把“增长”落到具体客户路径里。
+- 先记录 10 条真实客户原话，再判断下一轮动作。
+- 先跑一轮 7 天动作，再决定哪一步工具化。
+- 把每次输出都落到一个字段、一张表、一个动作或一次复盘。
 
 ---
 
@@ -218,11 +218,9 @@ Day7 收成可复用 Skill
 
 ---
 
-## 公开边界
+## 能力范围
 
-这是一个公开可用的 Skill。
-
-它可以给出：
+这个 Skill 的输出会优先落在六类结果上：
 
 - 判断框架。
 - 基础字段。
@@ -231,20 +229,11 @@ Day7 收成可复用 Skill
 - 可执行作业。
 - 工具选择逻辑。
 
-它不会给出：
-
-- 内部提示词系统。
-- Coze 节点细节和完整工作流链路。
-- 客户隐私与真实项目配置。
-- 完整私域转化路径。
-- 成交话术、付费交付 SOP 或隐藏商业架构。
-- 任何保证成交、保证增长或快速变现承诺。
-
 原则很简单：
 
 ```text
-公开版给你第一步能跑起来的结构。
-真正复杂的行业字段和自动化方案，要回到真实业务里单独判断。
+先让第一步跑起来。
+再用真实记录决定下一轮加深内容、线索还是工具。
 ```
 
 ---
@@ -262,7 +251,7 @@ Day7 收成可复用 Skill
     ├── framework.md
     ├── output-contracts.md
     ├── product-thinking.md
-    ├── public-boundary.md
+    ├── scope.md
     ├── seven-day-course-core.md
     ├── skill-running-loop.md
     ├── templates.md
@@ -435,14 +424,12 @@ Use this Skill if you are:
 - Trying to use AI in real business actions, not only demos.
 - Turning content, leads, follow-up, review, and tool choice into one line.
 
-Do not use it if you expect:
+Best way to use it:
 
-- Fully automatic sales.
-- Guaranteed revenue or conversion.
-- Hidden internal prompts.
-- Private-domain conversion paths.
-- Customer delivery SOPs.
-- A one-click replacement for business judgment.
+- Start from a real business scene, not a vague growth slogan.
+- Bring real customer words, comments, messages, or inquiry records.
+- Run one 7-day cycle before deciding what to automate.
+- Convert every output into a field, table, action, or review question.
 
 ---
 
@@ -491,7 +478,7 @@ Use this Skill to design a 7-day lead recording and follow-up review loop.
     ├── framework.md
     ├── output-contracts.md
     ├── product-thinking.md
-    ├── public-boundary.md
+    ├── scope.md
     ├── seven-day-course-core.md
     ├── skill-running-loop.md
     ├── templates.md
@@ -510,4 +497,3 @@ Use this Skill to design a 7-day lead recording and follow-up review loop.
 More public writing, course notes, and cases:
 
 **[BLJZ.club](https://bljz.club)**
-

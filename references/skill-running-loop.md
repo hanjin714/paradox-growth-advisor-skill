@@ -103,23 +103,12 @@ A complete public use cycle can produce:
 - A simple A/B/C classification rule.
 - A next-round optimization plan.
 
-## What The Skill Does Not Produce Publicly
-
-Do not output:
-
-- Hidden internal prompts.
-- Full private-domain conversion path.
-- Sales closing scripts.
-- Paid delivery SOP.
-- Customer privacy or real client data.
-- Coze workflow node internals.
-- A promise of guaranteed sales.
-
-Use this wording when needed:
+## First-Round Depth
 
 ```text
-公开版先帮你把业务循环跑清楚。
-具体行业字段、承接话术、自动化细节和交付方案，需要回到你的真实业务里单独判断。
+先帮你把业务循环跑清楚。
+先让内容、开口、记录、跟进和复盘进入同一张可见的表。
+再根据真实记录决定下一轮加深内容、线索还是工具。
 ```
 
 ## Plain-Language Explanation

@@ -32,7 +32,7 @@ Do not start from features. Start from the business action.
 | Sales / receptionist | Know which lead matters and next action | A/B/C rule, follow-up card, record table |
 | Store manager | Connect content, visit, service, repeat node | Store lead table, repeat trigger card |
 | Solo creator / shop owner | Avoid random posting and missed inquiries | 30-day content-to-lead table |
-| Course learner | Finish a public homework without seeing hidden SOP | Worksheet, homework card, public template |
+| Course learner | Finish a public homework with a clear first action | Worksheet, homework card, public template |
 
 When the role is unclear, infer from the request and state the assumption briefly.
 
@@ -111,7 +111,7 @@ Not MVP:
 
 - Build a full CRM.
 - Automate all customer reception.
-- Write complete private-domain conversion.
+- Write complete audience conversion.
 - Make a full industry operating system.
 - Replace human business judgment.
 
@@ -161,7 +161,7 @@ When the user asks for many things, rank by:
 2. Does it make the next action visible.
 3. Does it reduce repeated manual confusion.
 4. Does it create data for review.
-5. Does it avoid exposing hidden conversion logic.
+5. Does it avoid exposing advanced conversion logic.
 
 De-prioritize:
 
@@ -188,7 +188,7 @@ Use this shape when product thinking is requested:
 下一轮根据什么优化：
 ```
 
-## Public Boundary
+## Scope
 
 Product thinking can be public. Hidden operating details cannot.
 
@@ -207,4 +207,4 @@ Reserved:
 - Sales scripts.
 - Payment or product-ladder design.
 - Customer-specific diagnosis.
-- Coze node wiring and prompts.
+- Workflow-builder setup details.
