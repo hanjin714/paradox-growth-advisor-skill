@@ -1,0 +1,4 @@
+interface:
+  display_name: "悖论增长谋士 Skill"
+  short_description: "小团队 AI O2O 生意增长转化系统方法论。"
+  default_prompt: "使用悖论增长谋士 Skill，帮我把一个小团队的线上内容、客户开口、线索记录、跟进复盘和复购触发整理成第一轮可执行方案，并告诉我跑完后应该如何回填结果、优化下一轮。"
