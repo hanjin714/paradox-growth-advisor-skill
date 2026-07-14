@@ -15,11 +15,11 @@ Use this file when the Skill needs to behave like a repeatable public operating 
 → Skill 复盘、优化、进入下一轮
 ```
 
-The Skill should always move toward a runnable output. Do not stay at concept explanation when the user has enough information to start.
+The Skill should always move toward a runnable output once the user has enough information to start.
 
 ## First Use
 
-When a new user does not know how to describe the business, ask for these six items:
+When a new user is unsure how how to describe the business, ask for these six items:
 
 1. What business they do.
 2. Where customers currently see them.
@@ -28,7 +28,7 @@ When a new user does not know how to describe the business, ask for these six it
 5. Who follows up.
 6. Which step feels most scattered.
 
-If the user cannot answer all six, still produce a draft diagnosis and mark assumptions clearly.
+If any of the six items are missing, still produce a draft diagnosis and mark assumptions clearly.
 
 ## Confirmation Point
 
@@ -77,7 +77,7 @@ A / B / C 各多少：
 你想下一轮优化什么：
 ```
 
-Do not judge success only by views or likes. Judge whether the business loop became more visible.
+Judge success by whether the business loop became more visible, with views and likes serving as supporting signals.
 
 ## Iteration Rules
 
@@ -85,8 +85,8 @@ Update the system in this order:
 
 1. If openings are low, adjust content and开口点.
 2. If openings exist but records are low, simplify the first table.
-3. If records exist but no next action, tighten owner and follow-up time.
-4. If next actions exist but no result, add result回填.
+3. If records exist while next action is missing, tighten owner and follow-up time.
+4. If next actions exist while result is missing, add result回填.
 5. If results exist but repeat purchase is missing, add复购触发.
 6. Only after a stable action repeats, choose Agent / workflow / Codex.
 

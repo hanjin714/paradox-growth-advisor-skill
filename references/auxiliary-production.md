@@ -1,6 +1,6 @@
 # Auxiliary Production
 
-Use this file when the Skill needs to produce supporting materials, not only diagnosis and tables.
+Use this file when the Skill needs to produce supporting materials beyond diagnosis and tables.
 
 The principle:
 
@@ -19,7 +19,7 @@ Before producing any asset, identify:
 4. What the team must record after using it.
 5. What should be recorded after use.
 
-If there is no diagnosed leak, first produce a light diagnosis.
+When the diagnosed leak is missing, first produce a light diagnosis.
 
 ## Asset Map
 
@@ -32,9 +32,9 @@ If there is no diagnosed leak, first produce a light diagnosis.
 | Repeat-purchase leak | Reminder logic, revisit topic, service-cycle card | Repeat node and trigger date |
 | Tool-choice confusion | Agent/workflow/Codex card, tool-choice worksheet | Stable action and tool decision |
 
-## Public-Safe Asset Types
+## Asset Types
 
-The Skill may produce:
+The Skill can produce:
 
 - Short-video scripts.
 - Live outlines.
@@ -52,16 +52,6 @@ The Skill may produce:
 - Tool-choice cards.
 - Customer original-word collection prompts.
 
-The Skill must not produce:
-
-- Hidden sales scripts.
-- Audience journey.
-- Payment pushing flow.
-- Full customer qualification logic.
-- Delivery checklist.
-- workflow-builder implementation details.
-- Claims of guaranteed revenue.
-
 ## Short-Video Script Contract
 
 Use when producing a video script.
@@ -77,13 +67,13 @@ Return:
 具体例子：
 结尾动作：
 发布后记录：
-不公开展开：
+下一轮复盘：
 ```
 
 Rules:
 
-- Do not write forced three-line rhymes.
-- Use one clear point, not a complete course.
+- Use natural spoken language.
+- Use one clear point, focused on the first course-level action.
 - Make the viewer know what to comment, ask, record, or try.
 - The ending should invite a audience-ready action, such as “留言你的行业，我帮你判断第一张表该记什么”.
 
@@ -109,13 +99,13 @@ Return:
 第二段：框架
 第三段：案例
 第四段：作业
-答疑边界：
+答疑范围：
 直播后要记录：
 ```
 
 Rules:
 
-- Keep the public class useful but incomplete.
+- Keep the class useful, concrete, and focused on first-round execution.
 - Give the learner a first action and a review point.
 - Avoid off-platform traffic wording. Use audience-ready wording such as “平台允许方式领取基础模板”.
 
@@ -132,7 +122,7 @@ Return:
 5. Public framework.
 6. Example.
 7. Reader homework.
-8. Reserved boundary.
+8. Next review question.
 
 Article sections should sound like a practitioner:
 
@@ -152,7 +142,7 @@ Return:
 你要填什么：
 填完以后怎么判断：
 明天带着什么回来：
-执行边界：
+执行范围：
 ```
 
 Good homework examples:
@@ -180,7 +170,7 @@ Return:
 明天只改一个点：
 ```
 
-Do not let the review become a vanity report. Views and likes are secondary unless they explain openings.
+Keep the review tied to business signals. Views and likes matter when they explain openings.
 
 ## Content Calendar Contract
 
@@ -195,8 +185,8 @@ Rules:
 
 - Every topic must connect to a customer opening.
 - Every opening must connect to a record.
-- Do not generate a random list of viral topics.
-- Do not promise viral results.
+- Generate topics from customer openings rather than trend-chasing alone.
+- Treat results as experiments that need records.
 
 ## Mind Map Text Contract
 

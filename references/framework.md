@@ -21,11 +21,11 @@ Explain it plainly:
 
 ## Five Leak Points
 
-1. Content leak: views exist, but users do not comment, ask, click, call, or visit.
-2. Lead leak: users ask questions, but no shared record exists.
-3. Follow-up leak: records exist, but no owner, next action, or date exists.
-4. Review leak: results exist, but do not return to content and team decisions.
-5. Repeat-purchase leak: customer cycles exist, but no reminder or reactivation node exists.
+1. Content leak: views exist, but users stay silent instead of commenting, asking, clicking, calling, or visiting.
+2. Lead leak: users ask questions while shared records stay missing.
+3. Follow-up leak: records need owner, next action, and date.
+4. Review leak: results exist, but fail to return to content and team decisions.
+5. Repeat-purchase leak: customer cycles need reminder or reactivation nodes.
 
 ## Basic Lead Table
 
@@ -40,7 +40,7 @@ Use this as the public table:
 | Stage | Asking, comparing, appointment, paid, lost, repeat |
 | Owner | Who follows up |
 | Next action | The specific next step |
-| Next follow-up date | Not “later”; use a date |
+| Next follow-up date | Concrete date instead of “later” |
 | Lead grade | A/B/C |
 | Result | What happened after follow-up |
 
@@ -62,7 +62,7 @@ C lead:
 
 - Outside range.
 - Price-only.
-- No next action.
+- Missing next action.
 - Weak match.
 
 Say:

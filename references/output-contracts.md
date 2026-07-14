@@ -13,17 +13,17 @@ Return exactly these sections when diagnosing a business:
 第一张表要记录什么：
 A/B/C 怎么分：
 未来 7 天只做什么：
-现在不做什么：
+第一轮聚焦什么：
 工具选择：
-公开边界：
+下一轮复盘问题：
 ```
 
 Quality bar:
 
 - The business loop must include source, opening place, owner, record, next action, result, and repeat trigger if relevant.
-- The leak must be one main leak, not a list of everything.
-- The first table must have no more than 10 public fields.
-- “现在不做什么” must remove at least one tempting but premature action.
+- The leak should be one main leak instead of a list of everything.
+- The first table should stay within 10 public fields.
+- “第一轮聚焦什么” should remove at least one tempting but premature action.
 
 ## Contract 2: 7-Day Action Plan
 
@@ -36,7 +36,7 @@ Rules:
 
 - Each day should have one main action.
 - Every day should leave a record.
-- Do not introduce automation before the action repeats.
+- Introduce automation after the action repeats.
 - Day 7 should decide manual / Agent / workflow / Codex.
 
 Required closing:
@@ -80,7 +80,7 @@ Public default:
 | 当前阶段 | Single select | 刚开口 / 信息待补 / 已预约下一步 / 方案判断中 / 暂不推进 |
 | 线索等级 | Single select | A / B / C |
 | 负责人 | User / Text | Who owns next action |
-| 下一步动作 | Text | Specific action, not “follow up” |
+| 下一步动作 | Text | Specific action with clear verb and date |
 | 下次跟进时间 | Date | Concrete date |
 | 结果回填 | Long text | What happened |
 
@@ -95,7 +95,7 @@ When the user returns execution results, output:
 最大变化：
 最大漏点：
 数据说明：
-下一轮保留：
+下一轮继续：
 下一轮删除：
 下一轮新增：
 表格字段调整：
@@ -106,8 +106,8 @@ When the user returns execution results, output:
 Quality bar:
 
 - Use observed facts before suggestions.
-- Do not flatter the user with vague praise.
-- Do not judge only by views.
+- Use specific observations instead of vague praise.
+- Judge views when they connect to openings.
 - Tie every suggestion back to content, opening, record, follow-up, review, or repeat purchase.
 
 ## Contract 6: Public Course / Knowledge-Base Page
@@ -168,7 +168,7 @@ Quality bar:
 
 - Every asset must point back to the same diagnosed leak.
 - Every asset must have a recordable next action.
-- Do not create generic marketing copy.
+- Create business-linked copy instead of generic marketing copy.
 - Keep the output close to first-round execution.
 
 ## Contract 9: Productized Workflow Card
@@ -189,7 +189,7 @@ Return this when the user asks for product-manager thinking, productization, wor
 Quality bar:
 
 - The user role must be specific.
-- The task must be a job, not a slogan.
+- The task should be a job rather than a slogan.
 - The acceptance metric must be observable.
-- MVP boundary must remove premature automation or overbuilding.
+- MVP scope should reduce premature automation or overbuilding.
 - Tool form must be chosen after the task is clear.

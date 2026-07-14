@@ -277,7 +277,7 @@ Day7 收成可复用 Skill
 
 **Paradox Growth Advisor Skill** is a public Codex Skill for small teams, local stores, service businesses, solo operators, and lightweight B2B teams.
 
-It does not treat AI as a magic sales machine.
+It treats AI as a business operating layer rather than a magic sales machine.
 
 It puts AI back into the real business loop:
 
@@ -293,26 +293,25 @@ The next round of content and tools becomes sharper.
 Core idea:
 
 ```text
-The problem is not always a lack of customers.
-Often, the customers are scattered.
+The visible problem may look like a lack of customers.
+The operating problem is often scattered customer signals.
 
-AI should not be used to "close" before the business can even see its leads.
-AI should first help make content, leads, follow-up, and review visible to the team.
+AI first helps make content, leads, follow-up, and review visible to the team.
 ```
 
 ---
 
 ## What It Solves
 
-Many small teams do not need a stronger model first.
+Many small teams often need a clearer operating structure before a stronger model.
 
 They need a clearer operating structure:
 
 - Content gets views, but nobody asks.
 - People comment or message, but nothing is recorded.
-- A conversation happens, but there is no owner, next step, or follow-up date.
+- A conversation happens, and owner, next step, or follow-up date still need to be assigned.
 - The owner remembers one part, employees keep another part on their phones.
-- Content, sales, delivery, and repeat purchase do not form a reviewable loop.
+- Content, sales, delivery, and repeat purchase still need to form a reviewable loop.
 - AI tools are added too early, before the workflow itself is clear.
 
 This Skill helps turn fuzzy business activity into a runnable first-round growth loop.
@@ -329,17 +328,17 @@ Every diagnosis starts with one sentence:
 Who sees you through what content, where do they ask, who catches the inquiry, where is it recorded, what is the next step, how does the result return, and when is repeat purchase triggered?
 ```
 
-If this sentence is unclear, do not start by building an Agent.
+When this sentence is unclear, start by clarifying the business loop before building an Agent.
 
 ### 2. Find The Largest Leak
 
 | Leak | Symptom | First Action |
 | --- | --- | --- |
-| Content leak | Views but no comments or inquiries | Rewrite the opening trigger |
-| Lead leak | Comments/messages exist but are not recorded | Create the minimum lead table |
-| Follow-up leak | Records exist, but no owner or next step | Add owner, action, and date |
-| Review leak | Results never return to the table | Record why it moved or did not move |
-| Repeat-purchase leak | Customers have cycles, but no trigger | Record service or purchase cycles |
+| Content leak | Views stay quiet | Rewrite the opening trigger |
+| Lead leak | Comments/messages stay outside records | Create the minimum lead table |
+| Follow-up leak | Records need owner and next step | Add owner, action, and date |
+| Review leak | Results stay outside the table | Record why it moved or paused |
+| Repeat-purchase leak | Customers have cycles waiting for triggers | Record service or purchase cycles |
 
 ### 3. Build The First Table Before The First Agent
 
@@ -349,7 +348,7 @@ Minimum lead table:
 Date / Source / Customer Original Words / Need / Stage / Owner / Next Action / Next Follow-up Date / Lead Grade / Result
 ```
 
-The table is not for decoration.
+The table is the team's shared operating memory.
 
 It helps the team see:
 
@@ -367,7 +366,7 @@ B: Interested, but missing key information.
 C: Currently unmatched, no next step, price-only, or weak relevance.
 ```
 
-Small teams often lose not because there are no customers, but because attention is spent in the wrong places.
+Small teams often lose attention before they lose customers.
 
 ### 5. Choose Tools Last
 
@@ -376,10 +375,10 @@ Use Agent for changing judgment.
 Use workflow for fixed repetition.
 Use Codex when the process should become a long-term tool or system.
 Use docs/tables/task tools when the team needs shared records.
-If the process has not been manually validated, run it manually first.
+Validate the process manually before automating it.
 ```
 
-Tools are not beliefs.
+Tools are business positions.
 
 They become useful only after being placed in the right business position.
 
@@ -399,14 +398,14 @@ Day 6: Diagnose a real business loop
 Day 7: Turn the course into a reusable Skill
 ```
 
-After seven days, the goal is not a pile of materials.
+After seven days, the goal is a set of reusable assets.
 
 The goal is four assets:
 
 | Asset | What It Keeps | Why It Matters |
 | --- | --- | --- |
-| Content asset | Repeated questions and proven opening points | The next round is not based on guesswork |
-| Lead asset | Source, original words, stage, owner, next action | Leads no longer sleep inside chat boxes |
+| Content asset | Repeated questions and proven opening points | The next round starts from evidence |
+| Lead asset | Source, original words, stage, owner, next action | Leads become visible outside chat boxes |
 | Judgment asset | A/B/C rules and business fields | The team knows who to handle first |
 | Tool asset | Actions suitable for Agent/workflow/Codex | AI enters the right position |
 
@@ -421,12 +420,12 @@ Use this Skill if you are:
 - A team of fewer than roughly 10-20 people.
 - A solo or small new-media operator.
 - Getting comments, messages, or inquiries but losing follow-up.
-- Trying to use AI in real business actions, not only demos.
+- Trying to use AI in real business actions beyond demos.
 - Turning content, leads, follow-up, review, and tool choice into one line.
 
 Best way to use it:
 
-- Start from a real business scene, not a vague growth slogan.
+- Start from a real business scene instead of a vague growth slogan.
 - Bring real customer words, comments, messages, or inquiry records.
 - Run one 7-day cycle before deciding what to automate.
 - Convert every output into a field, table, action, or review question.

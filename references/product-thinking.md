@@ -1,6 +1,6 @@
 # Product Thinking Layer
 
-Use this file when the Skill needs to behave like a product manager, not only a consultant or copywriter.
+Use this file when the Skill needs to behave like a product manager beyond consulting or copywriting.
 
 Core idea:
 
@@ -21,7 +21,7 @@ For every request, silently check:
 6. What should stay manual in the MVP.
 7. What can be automated only after repetition.
 
-Do not start from features. Start from the business action.
+Start from the business action before choosing features.
 
 ## User Roles
 
@@ -49,7 +49,7 @@ Common jobs:
 - I need to decide whether to use Agent, workflow, Codex, or Feishu.
 - I need to turn this into public course material.
 
-Map every job to one output. Do not produce a bundle unless the user asks for a package.
+Map every job to one output. Produce a package when the user asks for a package.
 
 ## Input Contract
 
@@ -89,9 +89,9 @@ Choose the lightest usable form:
 | 复盘优化 | Review card |
 | 稳定复用 | Agent / workflow / Codex tool decision |
 
-Do not overbuild. A table that gets filled beats a system no one opens.
+A table that gets filled beats a system the team rarely opens.
 
-## MVP Boundary
+## MVP Scope
 
 Define MVP as:
 
@@ -107,11 +107,10 @@ MVP examples:
 - Review which three content pieces produced real openings.
 - Run one repeat-purchase reminder manually before automating it.
 
-Not MVP:
+Later-stage work:
 
 - Build a full CRM.
 - Automate all customer reception.
-- Write complete audience conversion.
 - Make a full industry operating system.
 - Replace human business judgment.
 
@@ -130,14 +129,14 @@ Use observable metrics:
 | Review card | Result returns to the table |
 | Tool decision | Stable repeated action is identified before automation |
 
-Do not use vanity metrics alone. Views, likes, and followers matter only when connected to openings and records.
+Use views, likes, and followers when they connect to openings and records.
 
 ## Productized Flow
 
 Use this sequence:
 
 ```text
-Role → Job → Input → Output → Acceptance → MVP Boundary → Next Iteration → Tool Form
+Role → Job → Input → Output → Acceptance → MVP Scope → Next Iteration → Tool Form
 ```
 
 Example:
@@ -148,7 +147,7 @@ Job: know which content brings real visits
 Input: last 10 inquiries and visit records
 Output: source-service-next-visit table
 Acceptance: 10 inquiries recorded with source and next action
-MVP Boundary: no automation, no full CRM
+MVP Scope: one recordable action first
 Next Iteration: classify sources and repeat nodes
 Tool Form: Feishu Base first, workflow later
 ```
@@ -166,9 +165,9 @@ When the user asks for many things, rank by:
 De-prioritize:
 
 - Decorative dashboards.
-- Over-detailed fields no one will fill.
+- Over-detailed fields the team rarely fills.
 - Automation before repeated behavior.
-- Content that cannot produce a recordable opening.
+- Content that produces few recordable openings.
 - Tooling that replaces unclear management decisions.
 
 ## Product Manager Style Response
@@ -190,21 +189,12 @@ Use this shape when product thinking is requested:
 
 ## Scope
 
-Product thinking can be public. Hidden operating details cannot.
+Product thinking focuses on role, task, output, metric, and tool choice.
 
 Allowed:
 
 - Role and task design.
-- MVP boundary.
+- MVP scope.
 - Output contract.
 - Acceptance metrics.
 - Tool-choice logic.
-
-Reserved:
-
-- Internal scoring model.
-- Private conversion sequence.
-- Sales scripts.
-- Payment or product-ladder design.
-- Customer-specific diagnosis.
-- Workflow-builder setup details.

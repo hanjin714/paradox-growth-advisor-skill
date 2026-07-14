@@ -15,7 +15,7 @@ Use it when the user wants:
 
 Keep every Feishu artifact focused on the first runnable action: readable plan, recordable table, reviewable task list.
 
-## Tool Boundary
+## Tool Scope
 
 If Feishu CLI is available, create real Feishu artifacts. If not, output the Markdown / table schema that can be pasted into Feishu.
 
@@ -215,7 +215,7 @@ Create tasks only for public actions:
 - Review content openings.
 - Decide tool choice.
 
-Do not create tasks for advanced conversion, sales handoff, or paid implementation.
+Create tasks around first-round records, owner, next action, review, and tool choice.
 
 ## Recommended Execution Flow
 
@@ -247,7 +247,7 @@ For a solo new-media shop owner, generate:
 
 ## Public Example: Solo New-Media Online Store
 
-Use this if the user gives no industry details but wants an example.
+Use this when the user gives limited industry details but wants an example.
 
 First table:
 

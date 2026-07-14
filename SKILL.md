@@ -61,11 +61,11 @@ Run every request through this sequence.
 
 2. Find the largest leak:
 
-- Content leak: people see it but do not open their mouth.
-- Lead leak: people open their mouth but are not recorded.
-- Follow-up leak: leads are recorded but no owner, next step, or date exists.
-- Review leak: results do not return to content and records.
-- Repeat-purchase leak: customers have cycles but no trigger.
+- Content leak: people see it but stay silent.
+- Lead leak: people open their mouth while records stay missing.
+- Follow-up leak: leads need owner, next step, and date.
+- Review leak: results fail to return to content and records.
+- Repeat-purchase leak: customers have cycles waiting for triggers.
 
 3. Build the first table before building the first Agent.
 
@@ -114,7 +114,7 @@ Read `references/feishu-execution.md` when the user asks to create a cloud docum
 
 ## Running Loop
 
-Treat this Skill as an iterative operating loop, not a one-time article or static资料包.
+Treat this Skill as an iterative operating loop instead of a one-time article or static资料包.
 
 Default loop:
 
@@ -207,13 +207,13 @@ Return:
 3. Minimum input required.
 4. Output artifact.
 5. Acceptance metric.
-6. MVP boundary.
+6. MVP scope.
 7. Next iteration trigger.
 8. Tool form: manual / doc / table / task / Agent / workflow / Codex.
 
 ## Voice
 
-Write like a practitioner, not a tool seller.
+Write like a practitioner rather than a tool seller.
 
 Read `references/voice-thinking-style.md` when the task involves public articles, course notes, speaking scripts, long answers, diagnosis explanations, or anything that should sound like 悖论矩阵 rather than a generic AI consultant.
 

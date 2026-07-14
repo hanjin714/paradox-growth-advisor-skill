@@ -111,7 +111,7 @@ Ask:
 什么时候跟？
 ```
 
-If these five questions cannot be answered, the customer is still scattered.
+If these five questions are still unanswered, the customer is still scattered.
 
 Use these public lines:
 
@@ -195,7 +195,7 @@ Public line:
 
 ### Daily Eight Numbers
 
-Do not only watch views.
+Watch views together with openings and records.
 
 Watch:
 
@@ -204,7 +204,7 @@ Watch:
 | Posts published | Did the team act today? |
 | Views | Was the content seen? |
 | Comments | Did users open their mouth? |
-| Private messages | Did it enter next-step communication? |
+| Direct messages | Did it enter next-step communication? |
 | Next-step conversations | Did a real dialogue happen? |
 | A leads | Did valuable leads appear? |
 | Handed-off leads | Did front-end pass to back-end? |
@@ -225,7 +225,7 @@ Use this diagnostic chain:
 
 Build the first lead table and fill 10 real inquiries.
 
-Do not invent. Use real comments, messages, calls, employee notes, order records, or customer memories.
+Use real comments, messages, calls, employee notes, order records, or customer memories.
 
 Depth note:
 
@@ -244,9 +244,9 @@ Core judgment:
 
 ### What This Day Solves
 
-Many teams “post content” but do not get business signals.
+Many teams “post content” but still need clearer business signals.
 
-The problem is often not that the content is ugly. The problem is that the content does not let the right person know:
+The problem is often less about whether the content is ugly. The problem is that the content fails to let the right person know:
 
 - Am I the audience?
 - What problem does this business solve?
@@ -259,8 +259,8 @@ The problem is often not that the content is ugly. The problem is that the conte
 | Type | What It Looks Like | Why It Fails | Fix |
 |-|-|-|-|
 | 泛 | “专注品质服务”“用心做好每个细节” | Anyone can read it, nobody feels named | Add object, scene, contradiction |
-| 炫 | Equipment, systems, jargon, certificates | Peers understand, customers do not know relevance | Translate expertise into customer judgment |
-| 断 | Content is interesting but leads nowhere | User does not know what to comment or ask | Add a concrete opening point |
+| 炫 | Equipment, systems, jargon, certificates | Peers understand, customers still need relevance | Translate expertise into customer judgment |
+| 断 | Content is interesting but leads nowhere | User is unsure how what to comment or ask | Add a concrete opening point |
 
 Public line:
 
@@ -282,7 +282,7 @@ Use this flywheel:
 | 理解 | Knows you are not generic | Name the problem you solve |
 | 信任 | Feels you have real process | Show process, cases, standards |
 | 开口 | Comments, asks, gives their situation | Plant a concrete question |
-| 记录 | Question does not stay in comments | Put it into lead table |
+| 记录 | Question fails to stay in comments | Put it into lead table |
 | 复盘 | Learn which content works | Feed real problems into next content |
 
 ### 7-Day Content Compass
@@ -340,7 +340,7 @@ Possible lead-table fields:
 - Owner.
 - Next action.
 
-If the answer cannot be written into a field, the content may only be noise.
+If the answer fails to be written into a field, the content may only be noise.
 
 ### Day 2 Homework
 
@@ -477,7 +477,7 @@ Start with fields employees are willing to fill:
 
 ### Keep Customer Original Words
 
-Do not immediately translate customer words into professional terms.
+Keep customer words close to the original before translating them into professional terms.
 
 Customer says:
 
@@ -485,7 +485,7 @@ Customer says:
 员工不愿意拍，一拍就像背稿。
 ```
 
-Do not only write:
+Replace vague writing like:
 
 ```text
 企业内容生产机制缺失。
@@ -550,7 +550,7 @@ But run manually first:
 Find 10 real needs from the last 7 days:
 
 - Comments.
-- Private messages.
+- Direct messages.
 - Live questions.
 - Employee retelling.
 - Phone inquiries.
@@ -615,7 +615,7 @@ A/B/C 不是客户高低分，而是团队注意力分配。
 |-|-|-|
 | A | Matched object, specific problem, willingness to continue, clear next step | Assign owner, action, and time quickly |
 | B | Real problem but missing information | Ask missing facts and rejudge |
-| C | Vague, unmatched, or watching | Keep record, use public content to hold, do not consume too much manual time |
+| C | Vague, unmatched, or watching | Keep record, use public content to hold, use light-touch nurturing instead of heavy manual time |
 
 C can change later. It is not abandonment. It is current attention allocation.
 
@@ -668,12 +668,12 @@ Smart home:
 ### Complete Progression Flow
 
 ```text
-内容被看见 → 用户开口 → 保留原话与来源 → 补全判断事实 → 判断 A/B/C → 明确负责人、动作、时间 → 结果回填并重新判断
+内容被看见 → 用户开口 → 记录原话与来源 → 补全判断事实 → 判断 A/B/C → 明确负责人、动作、时间 → 结果回填并重新判断
 ```
 
 The label is not the point. The action behind the label is the point.
 
-### AI Boundary
+### AI Scope
 
 AI can suggest categories and reasons after the team has rules.
 
@@ -762,7 +762,7 @@ Use Codex when:
 - Team needs a lead board.
 - Customer info search page.
 - Multi-role collaboration status.
-- Internal generator.
+- Team generator.
 - Early business data tool.
 
 ### Tool Choice Flow
@@ -846,7 +846,7 @@ The first three may be assisted by AI. The last often needs industry rules and h
 | Rules written? | Are stages, A/B/C, and advancement criteria clear? |
 | Result filled back? | Do you know whether the reminder or action worked? |
 
-### Human-AI Boundary
+### Human-AI Scope
 
 Put AI in three positions:
 
@@ -937,7 +937,7 @@ For AI, ask:
 
 ### Diagnosis Should Be Small
 
-Do not diagnose everything at once.
+Diagnose one main leak at a time.
 
 Public line:
 
@@ -967,7 +967,7 @@ Boss says:
 我们每天也发内容，但是到店的人不稳定。
 ```
 
-Do not immediately give a content calendar or paid traffic suggestion.
+Start with source, question, service item, and next node before content calendars or traffic suggestions.
 
 Ask:
 
@@ -993,7 +993,7 @@ Boss says:
 我们有很多咨询，但是销售跟不住。
 ```
 
-Do not start with CRM price or Agent construction.
+Start with where the lead scatters before discussing CRM price or Agent construction.
 
 Ask where customers scatter:
 
@@ -1030,10 +1030,10 @@ Public diagnosis should output six lines:
 
 Examples:
 
-- Do not build full automatic closing.
-- Do not build complex system.
-- Do not buy many tools.
-- Do not expand to all business lines.
+- Focus on one entry point first.
+- Keep the first system lightweight.
+- Choose one tool point after the action is stable.
+- Run one business line first.
 - First run one entrance.
 
 ### Diagnosis Card Homework
@@ -1047,9 +1047,9 @@ Create a small-team AI business diagnosis card:
 | First table fields |  |
 | Initial A/B/C rule |  |
 | 7-day action |  |
-| Do not do yet |  |
+| Later |  |
 
-Do not write:
+Replace slogans like:
 
 ```text
 提升效率。
@@ -1078,7 +1078,7 @@ Core judgment:
 
 ### What This Day Solves
 
-Do not let the course become:
+Keep the course away from:
 
 - A replay folder.
 - A PPT export.
@@ -1117,7 +1117,7 @@ Day 1: Money leak
 Day 2: Content as customer entrance
 Day 3: Opening becomes record
 Day 4: A/B/C protects attention
-Day 5: Agent / workflow / Codex boundary
+Day 5: Agent / workflow / Codex scope
 Day 6: Diagnosis before tools
 Day 7: Turn the first loop into the next rhythm
 ```
@@ -1183,7 +1183,7 @@ Use this public table:
 Required line:
 
 ```text
-这 7 天不追求完整系统，只追求把一条线索从开口到下一步看清楚。
+这 7 天不追求系统化方案，只追求把一条线索从开口到下一步看清楚。
 ```
 
 ### Three Deepening Directions
@@ -1274,7 +1274,7 @@ Keep Day 7 focused on four assets, six review questions, and the next 7-day rhyt
 | Day 2 | Content as lead filter | Content opening and user question design |
 | Day 3 | Opening becomes lead only after record | Lead record and customer original words |
 | Day 4 | A lead is current attention priority | A/B/C grading and next-action design |
-| Day 5 | Tool choice follows action clarity | Agent / workflow / Codex boundary |
+| Day 5 | Tool choice follows action clarity | Agent / workflow / Codex scope |
 | Day 6 | Diagnosis before tools | Public diagnosis card |
 | Day 7 | Course becomes reusable assets | Review rhythm and Skill packaging |
 

@@ -7,8 +7,7 @@ Use these audience-ready examples to help outsiders understand what the Skill do
 Plain explanation:
 
 ```text
-悖论增长谋士 Skill 不是帮你一键成交。
-它先帮你把客户从看见你、开口问你、被谁接住、有没有下一步、结果有没有回到记录里这条线画出来。
+悖论增长谋士 Skill 会先帮你把客户从看见你、开口问你、被谁接住、有没有下一步、结果有没有回到记录里这条线画出来。
 线画清楚以后，再决定哪些地方用 AI，哪些地方先别自动化。
 ```
 
@@ -16,7 +15,7 @@ Plain explanation:
 
 Use it for:
 
-- A local store that posts short videos but cannot tell which content brings real visits.
+- A local store that posts short videos and wants to know which content brings real visits.
 - A solo new-media shop owner who has comments and messages but no lead record.
 - A small service team that has inquiries scattered across platforms, chat, and employee phones.
 - A light B2B team that needs to track inquiry source, owner, next meeting, and result.
@@ -41,7 +40,7 @@ User says:
 Skill should answer:
 
 1. Business loop: content is seen, customer asks, inquiry enters a record, need is classified, next action is set, result feeds back to content.
-2. Likely leak: openings are not being recorded and classified.
+2. Likely leak: openings need better recording and classification.
 3. First action: record 10 real customer original words before changing content strategy.
 4. First table: source content, original words, need, missing info, next action, result.
 5. Tool choice: use Agent to classify original words only after manual records exist.
@@ -63,7 +62,7 @@ User says:
 
 Skill should answer:
 
-1. Do not start with an AI posting machine.
+1. Start with the source-content-to-store path.
 2. Record source content, customer question, service item, visit intention, next visit or replenishment timing.
 3. Find whether the leak is content opening, store reception, or post-service repeat trigger.
 4. Use 7 days to record real source and service preferences.
@@ -116,7 +115,7 @@ Skill should answer:
 3. Human should decide price, risk, commitment, and final proposal.
 4. If multiple people need search, status, permissions, and pages, then consider Codex-built tooling.
 
-Public-safe boundary:
+Scenario depth:
 
 ```text
 AI 可以帮你整理和提醒，承诺和最终判断仍然回到真实业务负责人。
@@ -138,18 +137,17 @@ Encourage users to provide:
 
 If the user gives only a vague sentence, produce a draft and mark assumptions.
 
-## Bad Inputs And How To Handle Them
+## Vague Inputs And How To Handle Them
 
 If the user says:
 
 ```text
-帮我做一个 AI 自动成交系统。
+帮我做一个 AI 增长系统。
 ```
 
 Respond:
 
 ```text
-先不做自动成交。
 我们先看客户从哪里来、在哪里开口、谁接住、下一步是什么。
 这条链路清楚以后，才判断哪一段适合用 AI。
 ```
@@ -157,12 +155,12 @@ Respond:
 If the user says:
 
 ```text
-帮我设计完整承接转化。
+帮我设计承接结构。
 ```
 
 Respond:
 
 ```text
-公开版不展开完整承接和转化细节。
-我可以先帮你做公开可用的线索记录、分层、跟进和复盘结构。
+我先帮你把线索记录、分层、跟进和复盘结构跑清楚。
+这会决定下一轮内容、线索和工具该加深哪一段。
 ```
